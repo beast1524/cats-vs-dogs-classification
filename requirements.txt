@@ -1,0 +1,1 @@
+Needs a dataset and CNN layers and min epochs are 10
